@@ -1,0 +1,40 @@
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\bin\Debug\netcoreapp2.0\lesproject.deps.json
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.json
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.dev.json
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\bin\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\bin\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\obj\Debug\netcoreapp2.0\lesproject.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfo.cs
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\obj\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\moham\OneDrive - Artesis Plantijn Hogeschool Antwerpen\Cloud APIs\Labo\aspcore_lesproject_na_deel1\obj\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\obj\Debug\netcoreapp2.0\lesproject.csproj.CoreCompileInputs.cache
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfoInputs.cache
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfo.cs
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\obj\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\obj\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\bin\Debug\netcoreapp2.0\lesproject.deps.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.dev.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\bin\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\Book_api_MO\bin\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.csproj.CoreCompileInputs.cache
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfoInputs.cache
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfo.cs
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.deps.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.dev.json
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.deps.json
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.json
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.runtimeconfig.dev.json
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\bin\Debug\netcoreapp2.0\lesproject.pdb
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.csproj.CoreCompileInputs.cache
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfoInputs.cache
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.AssemblyInfo.cs
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.dll
+C:\Users\Shakir\Dropbox\School_J2_S2\Cloud API\My_API\obj\Debug\netcoreapp2.0\lesproject.pdb
