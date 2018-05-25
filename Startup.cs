@@ -48,7 +48,7 @@ namespace lesproject
 
 
             app.UseCors(
-                   options => options.WithOrigins("http://localhost:5000/api/v1/Topscorers").AllowAnyMethod()
+                   options => options.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
                );
 
             app.UseMvc();

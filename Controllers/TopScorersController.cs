@@ -85,18 +85,18 @@ public class BooksController2 : Controller
         {
             switch (sort)
             {
-                case "Position":
+                case "name":
                     if (dir == "asc")
                     {
-                        query = query.OrderBy(d => d.Position);
+                        query = query.OrderBy(d => d.Name);
                     }
                     else
                     {
-                        query = query.OrderByDescending(d => d.Position);
+                        query = query.OrderByDescending(d => d.Name);
                     }
                     break;
 
-                case "Team":
+                case "team":
                     if (dir == "asc")
                     {
                         query = query.OrderBy(d => d.Team);
